@@ -1,0 +1,29 @@
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: white;
+  padding: 3%;
+}
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: crimson;
+  width: 100%;
+  height: 100%;
+  color: black;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3%;
+  margin-bottom: 2%;
+  background-color: rgb(134, 134, 134);
+}
+#grafico {
+  margin-bottom: 2%;
+}
